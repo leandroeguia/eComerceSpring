@@ -1,4 +1,4 @@
-**Proyecto de E-Comerce**
+**Proyecto de E-Commerce**
 
 Este proyecto consiste en el diseño e implemetación del BackEnd de una aplicación de e-comerce.
 
