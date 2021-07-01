@@ -6,6 +6,3 @@ Se utilizó Java con el framework Spring.
 
 Utilización de API REST, Spring JPA, Hibernate, PostgreSQL, Spring Security, JWT, Swagger.
 
-Utilización de API REST, Spring JPA, Hibernate, PostgreSQL,
-Spring Security, JWT, Swagger.
-
